@@ -1,5 +1,5 @@
 Output
-Report Date: 2026-08-13 10:00:00+0530 - 2026-08-14 10:00:00+0530 
+Report Date: 2026-08-14 10:00:00+0530 - 2026-08-15 10:00:00+0530 
 
 Data Format: (MaxCount,Threshold) 
 
@@ -24,8 +24,8 @@ AuthSpacesWorker: (6, 25)
 ProductWeb: (5, 18)  
 XapiMainWorkerWorker: (4, 25)  
 AnalyticsWeb: (4, 14)  
-AnalyticsProductWorkerWorker: (3, 5)  
 PubWeb: (2, 4)  
+AnalyticsProductWorkerWorker: (2, 5)  
 PushxWeb: (2, 4)  
 AuthExtnWeb: (2, 6)  
 XapiWeb: (2, 8)  
@@ -41,4 +41,4 @@ AnalyticsClassrecordProgressCEWorkerWorker: (2, 10)
 Auth2RuleWorkerWorker: (2, 4)  
 
 Builder
-BuilderMainWeb: (2, 6)  
+BuilderMainWeb: (1, 6)  
