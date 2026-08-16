@@ -1,5 +1,5 @@
 Output
-Report Date: 2026-08-14 10:00:00+0530 - 2026-08-15 10:00:00+0530 
+Report Date: 2026-08-15 10:00:00+0530 - 2026-08-16 10:00:00+0530 
 
 Data Format: (MaxCount,Threshold) 
 
@@ -7,14 +7,14 @@ App Cluster
 DashboardWeb: (5, 10)  
 NotificationsAppWeb: (3, 10)  
 OnboardingWeb: (3, 8)  
-SupportAdminAppWeb: (2, 8)  
-FocAppWeb: (2, 8)  
-ClassAppWeb: (2, 8)  
-LearningpathWeb: (2, 8)  
-AdminAppWeb: (2, 8)  
-NlpAppWeb: (2, 8)  
-MobileGatewayAppWeb: (2, 8)  
+SupportAdminAppWeb: (0, 8)  
+FocAppWeb: (0, 8)  
+ClassAppWeb: (0, 8)  
+LearningpathWeb: (0, 8)  
 IeltsAppWeb: (0, 8)  
+AdminAppWeb: (0, 8)  
+NlpAppWeb: (0, 8)  
+MobileGatewayAppWeb: (0, 8)  
 
 Microservices
 BuilderWeb: (3, 3)  Max threshold reached
@@ -41,4 +41,4 @@ AnalyticsClassrecordProgressCEWorkerWorker: (2, 10)
 Auth2RuleWorkerWorker: (2, 4)  
 
 Builder
-BuilderMainWeb: (1, 6)  
+BuilderMainWeb: (0, 6)  
