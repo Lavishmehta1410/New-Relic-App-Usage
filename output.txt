@@ -1,5 +1,5 @@
 Output
-Report Date: 2026-08-22 10:00:00+0530 - 2026-08-23 10:00:00+0530 
+Report Date: 2026-08-23 10:00:00+0530 - 2026-08-24 10:00:00+0530 
 
 Data Format: (MaxCount,Threshold) 
 
@@ -18,8 +18,9 @@ IeltsAppWeb: (0, 8)
 
 Microservices
 BuilderWeb: (3, 3)  Max threshold reached
-AnalyticsClassrecordProgressWorkerWorker: (6, 45)  
+AnalyticsClassrecordProgressWorkerWorker: (11, 45)  
 AnalyticsUserProgressWorkerWorker: (6, 30)  
+AnalyticsClassrecordProgressCEWorkerWorker: (6, 10)  
 AuthSpacesWorker: (6, 25)  
 ProductWeb: (5, 18)  
 XapiMainWorkerWorker: (4, 25)  
@@ -37,7 +38,6 @@ AnalyticsUserProgressCEWorkerWorker: (2, 4)
 DriveWeb: (2, 12)  
 AuthWeb: (2, 8)  
 AttemptsWeb: (2, 4)  
-AnalyticsClassrecordProgressCEWorkerWorker: (2, 10)  
 Auth2RuleWorkerWorker: (2, 4)  
 
 Builder
