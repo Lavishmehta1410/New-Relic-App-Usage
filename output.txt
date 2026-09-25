@@ -1,5 +1,5 @@
 Output
-Report Date: 2026-09-23 10:00:00+0530 - 2026-09-24 10:00:00+0530 
+Report Date: 2026-09-24 10:00:00+0530 - 2026-09-25 10:00:00+0530 
 
 Data Format: (MaxCount,Threshold) 
 
@@ -20,12 +20,12 @@ Microservices
 AnalyticsUserProgressCEWorkerWorker: (4, 4)  Max threshold reached
 BuilderWeb: (3, 3)  Max threshold reached
 ProductWeb: (15, 18)  Warning: 80% threshold reached
-AuthWeb: (7, 8)  Warning: 80% threshold reached
 AnalyticsClassrecordProgressWorkerWorker: (24, 45)  
 XapiMainWorkerWorker: (14, 25)  
 AnalyticsUserProgressWorkerWorker: (12, 30)  
 AuthSpacesWorker: (9, 25)  
-AnalyticsClassrecordProgressCEWorkerWorker: (8, 10)  
+AnalyticsClassrecordProgressCEWorkerWorker: (7, 10)  
+AuthWeb: (6, 8)  
 XapiWeb: (4, 8)  
 PushxMessagingWorkerWorker: (4, 6)  
 AnalyticsWeb: (4, 14)  
